@@ -45,10 +45,10 @@ public class IfElseType {
 			System.out.println("launch edge");
 		}
 		else if(browser.equals("safari")) {
-			System.out.println("launch safari");
+			System.out.println("launch Ram");
 		}
 		else {
-			System.out.println("plz pass  right browser...." + browser);
+			System.out.println("plz pass  wrong browser...." + browser);
 		}
 
 	}
